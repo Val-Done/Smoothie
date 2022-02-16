@@ -1,6 +1,6 @@
-@include font-face("Muli-Bold", "Muli-Bold", 400);
-@include font-face("Muli-BoldItalic", "Muli-BoldItalic", 400);
-@include font-face("Muli-ExtraBold", "Muli-ExtraBold", 400);
-@include font-face("Muli-Italic", "Muli-Italic", 400);
-@include font-face("Muli-Regular", "Muli-Regular", 400);
-@include font-face("Muli-Semi-BoldItalic", "Muli-Semi-BoldItalic", 400);
+@include font-face("Muli", "Muli-Bold", 700);
+@include font-face("Muli", "Muli-BoldItalic", 700, italic);
+@include font-face("Muli", "Muli-ExtraBold", 800);
+@include font-face("Muli", "Muli-Italic", 700, italic);
+@include font-face("Muli", "Muli-Regular", 400);
+@include font-face("Muli", "Muli-Semi-BoldItalic", 700, italic);
